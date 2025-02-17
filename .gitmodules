@@ -1,0 +1,6 @@
+[submodule "Renderer_DirectX12"]
+	path = Renderer_DirectX12
+	url = ./Renderer_DirectX12
+[submodule "Rendering_Core"]
+	path = Rendering_Core
+	url = ./Rendering_Core
