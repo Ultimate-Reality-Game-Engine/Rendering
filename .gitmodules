@@ -1,6 +1,6 @@
 [submodule "Renderer_DirectX12"]
 	path = Renderer_DirectX12
-	url = ./Renderer_DirectX12
+	url = https://github.com/Ultimate-Reality-Game-Engine/Renderer-DirectX12.git
 [submodule "Rendering_Core"]
 	path = Rendering_Core
-	url = ./Rendering_Core
+	url = https://github.com/Ultimate-Reality-Game-Engine/Rendering_Core.git
